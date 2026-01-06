@@ -8,7 +8,7 @@
    Open Source. Front-end.
    </p>
 
-[Demo](https://jokopi-react.vercel.app/) · [Related Projects](#related-projects) · [Request Feature](#report-bug)
+[Demo]() · [Related Projects](#related-projects) · [Request Feature](#report-bug)
 
 </div>
 
@@ -70,7 +70,7 @@ You need to install some software to run this project
 1. Clone this repository to your local
 
    ```bash
-   git clone https://github.com/nyannss/jokopi-react.git
+   git clone https://github.com/Red-Ixe-Lacorte/jocoffee.git
    ```
 
 2. Change current directory
